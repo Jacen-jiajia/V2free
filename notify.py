@@ -54,7 +54,7 @@ push_config = {
 
     'IGOT_PUSH_KEY': '',                # iGot 聚合推送的 IGOT_PUSH_KEY
 
-    'PUSH_KEY': '',                     # server 酱的 PUSH_KEY，兼容旧版与 Turbo 版
+    'PUSH_KEY': 'PDU25001TnBlAZlHBfhY83lkuqehzBw4SpG9tICg5',                     # server 酱的 PUSH_KEY，兼容旧版与 Turbo 版
 
     'PUSH_PLUS_TOKEN': '',              # push+ 微信推送的用户令牌
     'PUSH_PLUS_USER': '',               # push+ 微信推送的群组编码
